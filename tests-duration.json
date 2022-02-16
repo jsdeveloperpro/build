@@ -1,0 +1,266 @@
+[
+  {
+    "file": "packages/build/tests/constants/tests.js",
+    "order": 0,
+    "machine": 0,
+    "duration": 7477.958324968815
+  },
+  {
+    "file": "packages/build/tests/core/tests.js",
+    "order": 1,
+    "machine": 0,
+    "duration": 9702.92915302515
+  },
+  {
+    "file": "packages/build/tests/deploy/tests.js",
+    "order": 2,
+    "machine": 0,
+    "duration": 4032.382142007351
+  },
+  {
+    "file": "packages/build/tests/edge_handlers/tests.js",
+    "order": 3,
+    "machine": 0,
+    "duration": 6040.922630012035
+  },
+  {
+    "file": "packages/cache-utils/tests/digests.js",
+    "order": 4,
+    "machine": 0,
+    "duration": 1094.7638179659843
+  },
+  {
+    "file": "packages/cache-utils/tests/dir.js",
+    "order": 5,
+    "machine": 0,
+    "duration": 1109.7609860301018
+  },
+  {
+    "file": "packages/cache-utils/tests/has.js",
+    "order": 6,
+    "machine": 0,
+    "duration": 1117.0726879835129
+  },
+  {
+    "file": "packages/cache-utils/tests/list.js",
+    "order": 7,
+    "machine": 0,
+    "duration": 1134.4742830395699
+  },
+  {
+    "file": "packages/cache-utils/tests/move.js",
+    "order": 8,
+    "machine": 0,
+    "duration": 1152.3308510184288
+  },
+  {
+    "file": "packages/cache-utils/tests/path.js",
+    "order": 9,
+    "machine": 0,
+    "duration": 1119.0321370363235
+  },
+  {
+    "file": "packages/cache-utils/tests/remove.js",
+    "order": 10,
+    "machine": 0,
+    "duration": 1043.8909140229225
+  },
+  {
+    "file": "packages/cache-utils/tests/save_restore.js",
+    "order": 11,
+    "machine": 0,
+    "duration": 1165.4829629659653
+  },
+  {
+    "file": "packages/cache-utils/tests/ttl.js",
+    "order": 12,
+    "machine": 0,
+    "duration": 7225.232939004898
+  },
+  {
+    "file": "packages/functions-utils/tests/main.js",
+    "order": 13,
+    "machine": 0,
+    "duration": 1950.4394959807396
+  },
+  {
+    "file": "packages/git-utils/tests/main.js",
+    "order": 14,
+    "machine": 0,
+    "duration": 1932.1938639879227
+  },
+  {
+    "file": "packages/run-utils/tests/main.js",
+    "order": 15,
+    "machine": 0,
+    "duration": 1352.4358310103416
+  },
+  {
+    "file": "packages/build/tests/env/tests.js",
+    "order": 16,
+    "machine": 1,
+    "duration": 3950.519535958767
+  },
+  {
+    "file": "packages/build/tests/error/tests.js",
+    "order": 17,
+    "machine": 1,
+    "duration": 18655.805760025978
+  },
+  {
+    "file": "packages/build/tests/functions/tests.js",
+    "order": 18,
+    "machine": 1,
+    "duration": 2826.084034025669
+  },
+  {
+    "file": "packages/build/tests/install/tests.js",
+    "order": 19,
+    "machine": 1,
+    "duration": 6526.456284999847
+  },
+  {
+    "file": "packages/build/tests/log/tests.js",
+    "order": 20,
+    "machine": 1,
+    "duration": 5621.696666002274
+  },
+  {
+    "file": "packages/build/tests/manifest/tests.js",
+    "order": 21,
+    "machine": 1,
+    "duration": 4112.737536013126
+  },
+  {
+    "file": "packages/build/tests/mutate_headers_redirects/tests.js",
+    "order": 22,
+    "machine": 2,
+    "duration": 6308.970703005791
+  },
+  {
+    "file": "packages/build/tests/mutate_save/tests.js",
+    "order": 23,
+    "machine": 2,
+    "duration": 6506.653384029865
+  },
+  {
+    "file": "packages/build/tests/mutate/tests.js",
+    "order": 24,
+    "machine": 2,
+    "duration": 14339.243595004082
+  },
+  {
+    "file": "packages/build/tests/plugins_events/tests.js",
+    "order": 25,
+    "machine": 2,
+    "duration": 7921.046575009823
+  },
+  {
+    "file": "packages/build/tests/plugins/tests.js",
+    "order": 26,
+    "machine": 2,
+    "duration": 14119.90723001957
+  },
+  {
+    "file": "packages/build/tests/plugins_list/tests.js",
+    "order": 27,
+    "machine": 3,
+    "duration": 42764.27611196041
+  },
+  {
+    "file": "packages/build/tests/status/tests.js",
+    "order": 28,
+    "machine": 4,
+    "duration": 15397.162240982056
+  },
+  {
+    "file": "packages/build/tests/steps/tests.js",
+    "order": 29,
+    "machine": 4,
+    "duration": 2856.22148501873
+  },
+  {
+    "file": "packages/build/tests/telemetry/tests.js",
+    "order": 30,
+    "machine": 4,
+    "duration": 4515.6108040213585
+  },
+  {
+    "file": "packages/build/tests/time/tests.js",
+    "order": 31,
+    "machine": 4,
+    "duration": 4024.7570039629936
+  },
+  {
+    "file": "packages/config/tests/api/tests.js",
+    "order": 32,
+    "machine": 4,
+    "duration": 1729.8954510092735
+  },
+  {
+    "file": "packages/config/tests/base/tests.js",
+    "order": 33,
+    "machine": 4,
+    "duration": 1485.3105659484863
+  },
+  {
+    "file": "packages/config/tests/cli/tests.js",
+    "order": 34,
+    "machine": 4,
+    "duration": 1848.2979229688644
+  },
+  {
+    "file": "packages/config/tests/context/tests.js",
+    "order": 35,
+    "machine": 4,
+    "duration": 1785.84154099226
+  },
+  {
+    "file": "packages/config/tests/cwd/tests.js",
+    "order": 36,
+    "machine": 4,
+    "duration": 1648.2876369953156
+  },
+  {
+    "file": "packages/config/tests/env/tests.js",
+    "order": 37,
+    "machine": 5,
+    "duration": 26603.489203989506
+  },
+  {
+    "file": "packages/config/tests/load/tests.js",
+    "order": 38,
+    "machine": 5,
+    "duration": 2174.5808410048485
+  },
+  {
+    "file": "packages/config/tests/log/tests.js",
+    "order": 39,
+    "machine": 5,
+    "duration": 1770.1995069980621
+  },
+  {
+    "file": "packages/config/tests/mutate/tests.js",
+    "order": 40,
+    "machine": 5,
+    "duration": 1422.3194890022278
+  },
+  {
+    "file": "packages/config/tests/normalize/tests.js",
+    "order": 41,
+    "machine": 5,
+    "duration": 1651.8030090332031
+  },
+  {
+    "file": "packages/config/tests/parse/tests.js",
+    "order": 42,
+    "machine": 5,
+    "duration": 1748.8176100254059
+  },
+  {
+    "file": "packages/config/tests/validate/tests.js",
+    "order": 43,
+    "machine": 5,
+    "duration": 1509.316411972046
+  }
+]
